@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /App_Code/
+Disallow: /bin/
+Disallow: /assets/
+
+Sitemap: https://jordiperez.es/sitemap.xml

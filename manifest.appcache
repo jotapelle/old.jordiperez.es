@@ -1,0 +1,42 @@
+CACHE MANIFEST
+# 2010-06-18:v3
+
+# Explicitly cached entries
+index.html
+about.html
+contact.html
+services.html
+projects.html
+error404.html
+
+# All other resources (e.g. sites) require the user to be online. 
+NETWORK:
+*
+
+# Additional resources to cache
+CACHE:
+assets/bootstrap/css/bootstrap.min.css
+assets/bootstrap/js/bootstrap.min.js
+assets/cabecera/homeFoto.jpg
+assets/css/et-line-font.min.css
+assets/css/font-awesome.min.css
+assets/css/magnific-popup.css
+assets/css/owl.carousel.css
+assets/css/superslides.css
+assets/css/template.css
+assets/css/vertical.min.css
+assets/js/appear.js
+assets/js/contact.js
+assets/js/custom.js
+assets/js/gmap3.min.js
+assets/js/imagesloaded.pkgd.js
+assets/js/isotope.pkgd.min.js
+assets/js/jqBootstrapValidation.js
+assets/js/jquery-2.1.4.min.js
+assets/js/jquery.fitvids.js
+assets/js/jquery.magnific-popup.min.js
+assets/js/jquery.mb.YTPlayer.min.js
+assets/js/jquery.superslides.min.js
+assets/js/owl.carousel.min.js
+assets/js/smoothscroll.js
+assets/js/submenu-fix.js
